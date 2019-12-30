@@ -1,4 +1,4 @@
-#oject_2020
+#project_2020
 #Bolor Sukhbaatar 107035163
 #Tsatsral Ochirbal 107035159
 #Performance of the initial public offering (IPO) in the Mongolian stock market
